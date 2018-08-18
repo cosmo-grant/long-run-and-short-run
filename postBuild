@@ -3,3 +3,4 @@ jupyter nbextension enable --py widgetsnbextension
 jupyter nbextension enable python-markdown/main
 
 jupyter trust "the long-run and the short-run.ipynb"
+jupyter trust "laws of large numbers.ipynb"
